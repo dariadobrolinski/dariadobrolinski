@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m @dariadobrolinski<br>🤓 I am an Engineering Physics major with a minor in Computer Science. <br>🧠 I am currently doing undergraduate research at the BSS Lab. <br>🔍 I am interested in web development, machine learning, and robotics.</p>
+<p align="left">👋 Hi, I’m @dariadobrolinski<br>🤓 I am an Engineering Physics major with a minor in Computer Science at UMB <br>🧠 I am currently doing undergraduate research at the BSS Lab. <br>🔍 I am interested in web development, machine learning, and robotics.</p>
 
 ###
 
