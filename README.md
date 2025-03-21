@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m @dariadobrolinski<br>🤓 I am an Engineering Physics major with a minor in Computer Science at UMB. <br>🧠 I am currently doing undergraduate research at the BSS Lab. <br>🔍 I am interested in web development, machine learning, and robotics.</p>
+<p align="left">👋 Hi, I’m @dariadobrolinski<br>🤓 I am an Engineering Physics major with a minor in Computer Science. <br>🧠 I am currently doing undergraduate research at the BSS Lab. <br>🔍 I am interested in web development, machine learning, and robotics.</p>
 
 ###
 
@@ -40,18 +40,8 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dariadobrolinski&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dariadobrolinski&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dariadobrolinski&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dariadobrolinski&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<h3 align="left">👀 Profile Views:</h3>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/dariadobrolinski/count.svg?"  />
 </div>
 
 ###
