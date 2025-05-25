@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">😸 Hi, I’m @dariadobrolinski !<br>🖥️ I am a Computer Science student at UMB.  <br>🤖 I am interested in web development and machine learning.<br>🧠 I am currently doing undergraduate research at the BSS Lab.</h4>
+<h4 align="left">😸 Hi, I’m @dariadobrolinski !<br>🖥️ I am a Computer Science student at UMass Boston.  <br>🤖 I am interested in web development and machine learning.<br>🧠 I am currently doing undergraduate research at the BSS Lab.</h4>
 
 ###
 
