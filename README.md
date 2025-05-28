@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">😸 Hi, I’m @dariadobrolinski !<br>🖥️ I am a Computer Science student at UMass Boston.  <br>🤖 I am interested in web development and machine learning.<br>🧠 I am currently doing undergraduate research at the BSS Lab.</h4>
+<h4 align="left">😸 Hi, I’m @dariadobrolinski !<br>🖥️ I am a Computer Science student at UMB.  <br>🤖 I am interested in web development and machine learning.<br>🧠 I am currently doing undergraduate research at the BSS Lab.</h4>
 
 ###
 
@@ -18,6 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
   <img width="12" />
