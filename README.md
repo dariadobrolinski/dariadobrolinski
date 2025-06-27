@@ -1,4 +1,4 @@
-##👋 Hi, I'm Daria
+## 👋 Hi, I'm Daria
 
 - 🎓 I'm a Computer Science undergrad at UMass Boston (Go Beacons!)
 - 🧠 I do research in the **Brain Stimulation & Simulation Lab (BSS) Lab** 
