@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Daria
 
-- 🎓 I'm a Computer Science undergrad at UMass Boston (Go Beacons!)
+- 🎓 I'm a Computer Science undergrad at UMass Boston
 - 🧠 I do research in the [**Brain Stimulation & Simulation (BSS) Lab**](https://www1.coe.neu.edu/~rampersad/index.html)
 - ❤️ Passionate about **web development** & **machine learning**
 
