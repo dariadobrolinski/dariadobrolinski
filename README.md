@@ -1,10 +1,8 @@
 ## 👋 Hi, I'm Daria
 
 - 🎓 I'm a Computer Science undergrad at UMass Boston (Go Beacons!)
-- 🧠 I do research in the **Brain Stimulation & Simulation Lab (BSS) Lab** 
+- 🧠 I do research in the [**Brain Stimulation & Simulation (BSS) Lab**](https://www1.coe.neu.edu/~rampersad/index.html)
 - ❤️ Passionate about **web development** & **machine learning**
-
----
 
 ### 🛠️ My Tech Stack
 
@@ -18,8 +16,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
 </p>
 
----
-
 ### 🌐 Connect With Me!
 
 <p align="left">
@@ -27,8 +23,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://dariadobrolinski.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-%23FF69B4.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Website"/>
   </a>
 </p>
-
----
