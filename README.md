@@ -2,7 +2,8 @@
 
 - 🎓 I'm a Computer Science undergrad at UMass Boston
 - 🧠 I do research in the [**Brain Stimulation & Simulation (BSS) Lab**](https://www1.coe.neu.edu/~rampersad/index.html)
-- ❤️ I’m passionate about everything from backend architecture to frontend design.
+- 💻 I am an upcoming Software Development Intern at Lumen Technologies (Summer 2026)
+- ❤️ I’m passionate about everything from backend architecture to frontend design
 
 ### 🛠️ My Tech Stack
 
