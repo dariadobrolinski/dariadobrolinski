@@ -2,7 +2,7 @@
 - 🎓 I'm a Computer Science undergrad at UMass Boston
 - 🧠 I do research in the [**Brain Stimulation & Simulation (BSS) Lab**](https://www1.coe.neu.edu/~rampersad/index.html)
 - 💻 I am an upcoming Software Development Intern at Lumen Technologies (Summer 2026)
-- ❤️ ❤️ I love learning new things and I have a wide range of interests! Some include astronomy, running, and neuroscience
+- ❤️ I love learning new things and I have a wide range of interests! Some include astronomy, running, and neuroscience
 
 ### 🛠️ My Tech Stack
 <p align="left">
